@@ -5,3 +5,4 @@ change file 2
 bug fixed changed
 >>>>>>> bugfix/login-issue
 >>>>>>> bugfix/sign-issueddd
+change 02
